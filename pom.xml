@@ -13,9 +13,6 @@
     <version>0.0.1-SNAPSHOT</version>
     <name>docker_boot</name>
     <description>docker_boot</description>
-    <properties>
-        <java.version>1.8</java.version>
-    </properties>
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
